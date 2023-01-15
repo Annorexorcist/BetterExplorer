@@ -44,8 +44,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BEHelper", "BEHelper\BEHelp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fluent.Ribbon", "Fluent.Ribbon\Fluent.Ribbon\Fluent.Ribbon.csproj", "{A2CE12A0-F867-4D53-8DAE-956015590C82}"
 EndProject
-Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "Better Explorer AI Setup", "Better Explorer AI Setup\Better Explorer AI Setup.aiproj", "{A563DBE3-9C87-474D-9FA8-D7483E5FA8E7}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShellControls", "ShellControls\ShellControls.csproj", "{74338846-3BE7-4DBB-BDBA-8CF5DD70D5AF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFUI", "WPFUI\WPFUI.csproj", "{1ADC87D1-8963-4100-845A-18477824718E}"
